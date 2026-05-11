@@ -57,7 +57,7 @@ ALON is a voice-enabled AI agent built for crypto memecoin culture. He talks lik
 
 ```bash
 # clone
-git clone https://github.com/YOURUSERNAME/alon.git
+git clone https://github.com/onchaindev402/alon-llm.git
 cd alon
 
 # serve locally (any static server works)
